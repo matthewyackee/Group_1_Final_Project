@@ -1,15 +1,14 @@
 # Group_1_Final_Project
-Final Project for Group 1
 
-Analyzing and Comparing the Growth of New vs Old Generation Stocks
+# Analyzing and Comparing the Growth of New vs Old Generation Stocks
 
 Members:  Cole Geiger, Yuriy Komissarov, Matthew Yackee, Krishnendu Aneesh
 
-Objective:
+## Objective:
 To understand the dynamics of stock performance across different market cycles and technological eras by comparing historical and current market leaders across various sectors.
 
 
-Steps:
+## Steps:
 
 Data Collection: 
 Retrieve historical stock data, financial statements, and market indicators for each company from financial databases through Spark.
@@ -28,7 +27,7 @@ Evaluation:
 Evaluate the models based on performance metrics and compare the predictive power and accuracy between the stocks of the new and old generations.
 
 
-Next Steps and Team Assignments:
+## Next Steps and Team Assignments:
 
 Data Collection and Preparation:
 Retrieving and initially cleaning the data, followed by its normalization and standardization
@@ -40,9 +39,9 @@ Evaluation:
 The final evaluation of model performance, offering insights and suggestions for improvements.
 
 
-Stock Lists:
+## Stock Lists:
 
-Old stocks:
+### Old stocks:
 General Electric (GE) - Diversified industry with a long history in manufacturing, energy, and technology.
 Coca-Cola Company (KO) - Beverage industry, known worldwide with over a century of business history.
 Ford Motor Company (F) - Automotive sector, offering decades of data on manufacturing and sales.
@@ -55,7 +54,7 @@ AT&T Inc. (T) - Telecommunications, providing a lengthy history in communication
 McDonald's Corp. (MCD) - Fast-food industry, showcasing decades of consumer behavior and global expansion.
 
 
-New stocks:
+### New stocks:
 Apple Inc. (AAPL) - Technology sector, known for its innovation and robust financial performance.
 Amazon.com Inc. (AMZN) - E-commerce and cloud computing, offering diverse data from retail to technology.
 Tesla Inc. (TSLA) - Automotive and energy, known for its disruptive technology and growth potential.
@@ -68,6 +67,6 @@ Exxon Mobil Corporation (XOM) - Energy sector, providing data on oil, gas, and r
 NVIDIA Corporation (NVDA) - Technology and semiconductors, known for its role in gaming, automotive, and AI.
 
 
-Source:
+## Source:
 
 https://finance.yahoo.com/
