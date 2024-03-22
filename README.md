@@ -1,5 +1,3 @@
-# Group_1_Final_Project
-
 # Analyzing and Comparing the Growth of New vs Old Generation Stocks
 
 Members:  Cole Geiger, Yuriy Komissarov, Matthew Yackee, Krishnendu Aneesh
