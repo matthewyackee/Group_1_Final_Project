@@ -40,29 +40,29 @@ The final evaluation of model performance, offering insights and suggestions for
 ## Stock Lists:
 
 ### Old stocks:
-General Electric Company (GE) - Diversified industry with a long history in manufacturing, energy, and technology.
-Coca-Cola Company (KO) - Beverage industry, known worldwide with over a century of business history.
-Ford Motor Company (F) - Automotive sector, offering decades of data on manufacturing and sales.
-IBM (IBM) - Technology and consulting, with a significant history in computing technology innovation.
-Procter & Gamble Co. (PG) - Consumer goods, known for a wide range of household and personal care products.
-3M Company (MMM) - Conglomerate with a long history in manufacturing a variety of products across multiple sectors.
-American Express Company (AXP) - Financial services, offering insights into consumer finance trends over decades.
-Chevron Corporation (CVX) - Energy sector, with a long history in oil, gas, and alternative energy sources.
-AT&T Inc. (T) - Telecommunications, providing a lengthy history in communication services and technology.
-McDonald's Corp. (MCD) - Fast-food industry, showcasing decades of consumer behavior and global expansion.
+General Electric Company (GE) - Diversified industry with a long history in manufacturing, energy, and technology.\
+Coca-Cola Company (KO) - Beverage industry, known worldwide with over a century of business history.\
+Ford Motor Company (F) - Automotive sector, offering decades of data on manufacturing and sales.\
+IBM (IBM) - Technology and consulting, with a significant history in computing technology innovation.\
+Procter & Gamble Co. (PG) - Consumer goods, known for a wide range of household and personal care products.\
+3M Company (MMM) - Conglomerate with a long history in manufacturing a variety of products across multiple sectors.\
+American Express Company (AXP) - Financial services, offering insights into consumer finance trends over decades.\
+Chevron Corporation (CVX) - Energy sector, with a long history in oil, gas, and alternative energy sources.\
+AT&T Inc. (T) - Telecommunications, providing a lengthy history in communication services and technology.\
+McDonald's Corp. (MCD) - Fast-food industry, showcasing decades of consumer behavior and global expansion.\
 
 
 ### New stocks:
-Apple Inc. (AAPL) - Technology sector, known for its innovation and robust financial performance.
-Amazon.com Inc. (AMZN) - E-commerce and cloud computing, offering diverse data from retail to technology.
-Tesla Inc. (TSLA) - Automotive and energy, known for its disruptive technology and growth potential.
-Microsoft Corporation (MSFT) - Technology and cloud services, with steady growth and significant impact on the IT industry.
-Alphabet Inc. (GOOGL) - Parent company of Google, covering search engines, technology, and advertising.
-Meta Platforms, Inc. (Meta Platforms, FB) - Social media and technology, offering insights into digital advertising trends.
-JPMorgan Chase & Co. (JPM) - Financial sector, providing data on banking, financial services, and economic trends.
-Johnson & Johnson (JNJ) - Healthcare, offering insights into pharmaceuticals, consumer goods, and medical devices.
-Exxon Mobil Corporation (XOM) - Energy sector, providing data on oil, gas, and renewable energy trends.
-NVIDIA Corporation (NVDA) - Technology and semiconductors, known for its role in gaming, automotive, and AI.
+Apple Inc. (AAPL) - Technology sector, known for its innovation and robust financial performance.\
+Amazon.com Inc. (AMZN) - E-commerce and cloud computing, offering diverse data from retail to technology.\
+Tesla Inc. (TSLA) - Automotive and energy, known for its disruptive technology and growth potential.\
+Microsoft Corporation (MSFT) - Technology and cloud services, with steady growth and significant impact on the IT industry.\
+Alphabet Inc. (GOOGL) - Parent company of Google, covering search engines, technology, and advertising.\
+Meta Platforms, Inc. (Meta Platforms, FB) - Social media and technology, offering insights into digital advertising trends.\
+JPMorgan Chase & Co. (JPM) - Financial sector, providing data on banking, financial services, and economic trends.\
+Johnson & Johnson (JNJ) - Healthcare, offering insights into pharmaceuticals, consumer goods, and medical devices.\
+Exxon Mobil Corporation (XOM) - Energy sector, providing data on oil, gas, and renewable energy trends.\
+NVIDIA Corporation (NVDA) - Technology and semiconductors, known for its role in gaming, automotive, and AI.\
 
 
 ### Indexes:
