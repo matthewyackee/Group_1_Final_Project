@@ -67,3 +67,6 @@ NVIDIA Corporation (NVDA) - Technology and semiconductors, known for its role in
 
 ## Source:
 https://finance.yahoo.com/
+
+## Tableau:
+url here
