@@ -69,7 +69,7 @@ NVIDIA Corporation (NVDA) - Technology and semiconductors, known for its role in
 The Standard and Poor's 500 (^GSPC) - \
 The Dow Jones Industrial Average (^DJI) - \
 Nasdaq Composite (^IXIC) - \
-Russell 2000 (^RUT) - \
+Russell 2000 (^RUT) - 
 
 
 ## Source:
