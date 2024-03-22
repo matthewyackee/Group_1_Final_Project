@@ -65,7 +65,7 @@ Exxon Mobil Corporation (XOM) - Energy sector, providing data on oil, gas, and r
 NVIDIA Corporation (NVDA) - Technology and semiconductors, known for its role in gaming, automotive, and AI.
 
 
-### Indexes:
+### Index funds:
 The Standard and Poor's 500 (^GSPC) - \
 The Dow Jones Industrial Average (^DJI) - \
 Nasdaq Composite (^IXIC) - \
