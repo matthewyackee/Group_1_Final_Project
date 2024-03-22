@@ -49,7 +49,7 @@ Procter & Gamble Co. (PG) - Consumer goods, known for a wide range of household 
 American Express Company (AXP) - Financial services, offering insights into consumer finance trends over decades.\
 Chevron Corporation (CVX) - Energy sector, with a long history in oil, gas, and alternative energy sources.\
 AT&T Inc. (T) - Telecommunications, providing a lengthy history in communication services and technology.\
-McDonald's Corp. (MCD) - Fast-food industry, showcasing decades of consumer behavior and global expansion.\
+McDonald's Corp. (MCD) - Fast-food industry, showcasing decades of consumer behavior and global expansion.
 
 
 ### New stocks:
@@ -62,14 +62,14 @@ Meta Platforms, Inc. (Meta Platforms, FB) - Social media and technology, offerin
 JPMorgan Chase & Co. (JPM) - Financial sector, providing data on banking, financial services, and economic trends.\
 Johnson & Johnson (JNJ) - Healthcare, offering insights into pharmaceuticals, consumer goods, and medical devices.\
 Exxon Mobil Corporation (XOM) - Energy sector, providing data on oil, gas, and renewable energy trends.\
-NVIDIA Corporation (NVDA) - Technology and semiconductors, known for its role in gaming, automotive, and AI.\
+NVIDIA Corporation (NVDA) - Technology and semiconductors, known for its role in gaming, automotive, and AI.
 
 
 ### Indexes:
-The Standard and Poor's 500 (^GSPC) - 
-The Dow Jones Industrial Average (^DJI) - 
-Nasdaq Composite (^IXIC) - 
-Russell 2000 (^RUT) - 
+The Standard and Poor's 500 (^GSPC) - \
+The Dow Jones Industrial Average (^DJI) - \
+Nasdaq Composite (^IXIC) - \
+Russell 2000 (^RUT) - \
 
 
 ## Source:
