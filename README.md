@@ -65,11 +65,11 @@ Exxon Mobil Corporation (XOM) - Energy sector, providing data on oil, gas, and r
 NVIDIA Corporation (NVDA) - Technology and semiconductors, known for its role in gaming, automotive, and AI.
 
 
-### Index funds:
-The Standard and Poor's 500 (^GSPC) - \
-The Dow Jones Industrial Average (^DJI) - \
-Nasdaq Composite (^IXIC) - \
-Russell 2000 (^RUT) - 
+### Indexes:
+The Standard and Poor's 500 (^GSPC) - A stock market index that covers the performance of the stocks of 500 large-cap companies.\
+The Dow Jones Industrial Average (^DJI) - A stock market index of 30 prominent companies listed in the United States.\
+Nasdaq Composite (^IXIC) - A stock market index that includes almost all stocks listed on the Nasdaq stock exchange.\
+Russell 2000 (^RUT) - A stock market index that makes up the smallest 2,000 stocks in the Russell 3000 Index.
 
 
 ## Source:
