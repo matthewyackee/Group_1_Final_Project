@@ -4,7 +4,7 @@ Members:  Cole Geiger, Yuriy Komissarov, Matthew Yackee, Krishnendu Aneesh
 
 ## Objective:
 
-To understand the dynamics of stock performance by examining how market leaders have navigated different market cycles and technological changes over time.To accomplish this, we'll compare the performance of historical market leaders with today's top companies across various sectors. This comparison will shed light on how shifts in the economy and advancements in technology influence financial success and market positioning.Ultimately, our analysis seeks to uncover patterns and strategies that promote long-term stability and growth in the ever-changing global market landscape.
+To understand the dynamics of stock performance by examining how market leaders have navigated different market cycles and technological changes over time. To accomplish this, we'll compare the performance of historical market leaders with today's top companies across various sectors. This comparison will shed light on how shifts in the economy and advancements in technology influence financial success and market positioning. Ultimately, our analysis seeks to uncover patterns and strategies that promote long-term stability and growth in the ever-changing global market landscape.
 
 
 ## Steps:
