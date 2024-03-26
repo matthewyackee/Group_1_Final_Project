@@ -13,7 +13,7 @@ Data Collection: Retrieve historical stock data, financial statements, and marke
 
 Data Preparation: Clean and standardize the data to prepare for modeling. This involves handling missing values, adjusting for stock splits and dividends, and standardizing financial indicators. Additionally, the data may need to be transformed or normalized to ensure consistency and accuracy across different features.
 
-Model Implementation: Develop models to predict future stock prices or classify stock movement trends (up/down) using historical data. Implement models like Linear Regression for price prediction and Logistic Regression for movement classification. Ensure models meet the criteria of at least 75% classification accuracy or 0.80 R-squared for predictive power.
+Model Implementation: Develop models to predict future stock prices or classify stock movement trends (up/down) using historical data. Implement XGB Boost to predict outcomes based on historical data. Ensure models meet the criteria of at least 75% classification accuracy or 0.80 R-squared for predictive power.
 
 Model Optimization: Show iterative changes and their impacts on model performance. This could involve hyperparameter tuning, feature selection, or trying different modeling techniques such as ensemble methods or neural networks.
 
