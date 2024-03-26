@@ -17,7 +17,7 @@ Model Implementation: Develop models to predict future stock prices or classify 
 
 Model Optimization: Show iterative changes and their impacts on model performance. This could involve hyperparameter tuning, feature selection, or trying different modeling techniques such as ensemble methods or neural networks.
 
-Evaluation: Evaluate the models based on performance metrics and compare the predictive power and accuracy between the stocks of the new and old generations. This helps assess the reliability and effectiveness of the models in real-world scenarios.
+Evaluation: Evaluate the model using R-squared based on performance metrics and compare the predictive power and accuracy between various stocks.
 
 
 ## Stocks:
