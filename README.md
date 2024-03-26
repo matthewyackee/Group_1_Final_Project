@@ -3,13 +3,14 @@
 Members:  Cole Geiger, Yuriy Komissarov, Matthew Yackee, Krishnendu Aneesh
 
 ## Objective:
-To understand the dynamics of stock performance across different market cycles and technological eras by comparing historical and current market leaders across various sectors.
+
+To develop a model that can predict end of year stock prices of various stocks by analyzing the historical data of the stocks.
 
 
 ## Steps:
 
 Data Collection: 
-Retrieve historical stock data, financial statements, and market indicators for each company from financial databases through Spark.
+Retrieve historical stock data, financial statements, and market indicators for each company from financial databases through SQL.
 
 Data Preparation:
 Clean and standardize the data to prepare for modeling. This involves handling missing values, adjusting for stock splits and dividends, and standardizing financial indicators.
