@@ -1,4 +1,4 @@
-# Analyzing and Comparing the Growth of New vs Old Generation Stocks
+# Analyzing and Predicting the Growth of both New and Old Generation Stocks
 
 Members:  Cole Geiger, Yuriy Komissarov, Matthew Yackee, Krishnendu Aneesh
 
